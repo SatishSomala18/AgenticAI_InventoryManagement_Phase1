@@ -1,0 +1,17 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --app-bg: radial-gradient(circle at top left, rgba(21, 94, 239, 0.10), transparent 32%), radial-gradient(circle at bottom right, rgba(15, 118, 110, 0.10), transparent 30%), linear-gradient(145deg, #f6f8ff 0%, #fbfdff 45%, #eef7f7 100%);
+  --ink: #1c2536;
+  --muted: #64748b;
+  --brand: #155eef;
+  --brand-dark: #123ea8;
+  --panel: #ffffff;
+  --surface: rgba(255, 255, 255, 0.78);
+  --surface-border: rgba(15, 23, 42, 0.08);
+  --shadow-soft: 0 18px 40px rgba(15, 23, 42, 0.08);
+  --shadow-tight: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --radius-xl: 1.25rem;
+  --radius-lg: 1rem;
+  --radius-md: 0.85rem;
+}
